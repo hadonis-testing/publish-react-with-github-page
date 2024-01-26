@@ -1,1 +1,1 @@
-# publish-react-with-github-page
+# Publish React with GitHub Page
